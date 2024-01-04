@@ -54,4 +54,4 @@ Repository contains a high-quality README file with description, screenshot, and
 
 ## Display
 once uploaded the starting web page should look like the picture below
-"![Alt text](<assets/Quiz -time-screenshot.png>)"
+!["!\[Alt text\](<assets/Quiz -time-screenshot.png>)"](<assets/image/Screenshot 2024-01-03 222254.png>)
